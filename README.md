@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 About Me 🌟<br>👋 Hi there! I'm currently working on an e-commerce website. I'm always open to collaboration and would love some help with my projects.<br><br>💻 Currently Learning<br>🌱 Exploring the MERN stack (MongoDB, Express.js, React, Node.js). Got any tips? Let me know!<br><br>🤝 Let's Collaborate!<br>🔗 Interested in joining forces? Let's create something amazing together!<br><br>💡 Fun Fact<br>🤔 Ask me anything! I'm full of interesting trivia and fun facts.<br><br>📬 Contact Me<br>📩 Reach out if you want to collaborate, help out, or just chat at psingh41122@gmail.com. Let's connect!
+🌟 About Me 🌟<br>👋 Hi there! I'm currently working on an e-commerce website. I'm always open to collaboration and would love some help with my projects.<br><br>💻 Currently Learning<br>🌱 Exploring the MERN stack (MongoDB, Express.js, React, Node.js). Got any tips? Let me know!<br><br>🤝 Let's Collaborate!<br>🔗 Interested in joining forces? Let's create something amazing together!<br><br>💡 Fun Fact<br>🤔 Ask me anything! I'm full of interesting trivia and fun facts.<br><br>📬 Contact Me<br>📩 Reach out if you want to collaborate, help out, or just chat at vickrajput5555@gmail.com. Let's connect!
 
 
 ## 🌐 Socials:
